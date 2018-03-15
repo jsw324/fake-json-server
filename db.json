@@ -1,0 +1,13 @@
+{
+  "msr_status": [
+  {
+      "required": "36",
+      "label": "PGA Required",
+      "earned": "106"
+  },
+  {
+      "required": "54",
+      "label": "Total MSR Required",
+      "earned": "118"
+  }]
+}
